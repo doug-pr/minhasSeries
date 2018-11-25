@@ -1,0 +1,29 @@
+//Iniciar a API com o JSON
+json-server --watch db.json --port 3001
+
+//Iniciar o React
+yarn start
+npm start
+
+Parei aos 37:00 da parte III - Visualizar as séries por gênero
+
+
+Carrefour
+S9+ - 20 X 144,95
+S9  - 20 X 172,45
+
+Americanas
+S9+ - 20 X 194,95 - 24 X 162,45
+S9  - 20 X 174,95 - 24 X 145,79
+
+Extra
+S9+ - 20 X 194,95 - 24 X 162,46
+S9  - 20 X 199,95 - 24 X 166,63
+
+Shoptime
+S9+ - 20 X 194,95 - 24 X 162,45
+S9  - 20 X 174,95 - 24 X 145,79
+
+Magazine Luiza
+S9+ - 20 X 184,95 - 24 X 154,13
+S9  - 20 X 164,95 - 24 X 137,46
